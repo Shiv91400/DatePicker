@@ -12,6 +12,7 @@ public class MainActivity extends AppCompatActivity {
     DatePicker datePicker;
     TextView txt;
     Button btn;
+    //commented by Shiv
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
